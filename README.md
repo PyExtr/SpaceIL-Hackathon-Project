@@ -6,6 +6,6 @@ I was exposed to several technologies that were completely new to me and it was 
 
 **The visualization is ready to play in "Build" folder, have fun seen the accurate trajectory of the Bereshit1 :)**
 
-Preview:
+Preview: (takes some time to load)
 
 ![Demo](demo.gif)
